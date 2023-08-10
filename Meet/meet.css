@@ -1,0 +1,34 @@
+.candid{
+    font-size: 50px;
+    margin-right: 750px;
+
+}
+.meet{
+    color: rgb(122, 120, 120);
+    margin-right: 500px;
+}
+.images{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+img{
+    width: 600px;
+    border-radius: 20px;
+    margin-bottom: -20px;
+}
+.img:hover{
+    transition: 1s;
+    transform: scale(1.025, 1.025);
+    display: inline-block;
+}
+.excell{
+    margin-right: 190px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.view{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 500px;
+}

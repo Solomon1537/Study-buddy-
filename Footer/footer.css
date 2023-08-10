@@ -1,0 +1,50 @@
+.get{
+    font-size: 40px;
+    margin-left: 40px;
+}
+.inp{
+    height: 41px;
+    margin-left: 40px;
+    width: 500px;
+    border-radius: 25px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+.hut{
+    background-color: silver;
+    margin-top: 60px;
+    height: 400px;
+    display: flex;
+    width: 106%;
+    margin-left: -39px;
+    text-align: left;
+}
+.but6{
+    margin-left: -104px;
+    background-color: red;
+    width: 100px;
+    border-radius: 20px;
+    height: 40px;
+    padding-top: 3px;
+    color: white;
+    font-weight: bold;
+}
+.but6:hover{
+    background-color: rgb(247, 38, 73) ;
+}
+.check{
+    margin-left: 45px;
+    margin-top: 20px;
+}
+.lefty{
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+h6{
+    color: red;
+    font-size: 13px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}

@@ -1,0 +1,90 @@
+.bold{
+    background-image: url(./dam.jpg);
+    height: 600px;
+    width: 106%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -40px;
+    margin-top: 30px;
+    display: flex;
+}
+.project{
+    margin-left: 50px;
+    text-align: left;
+    margin-top: 20px;
+}
+.but2{
+    background-color: rgb(67,70,23);
+    width: 200px;
+    margin-left: 100px;
+}
+.but2 a{
+    color: white;
+}
+.but2:hover{
+    transform: scale(1.0025, 1.0025);
+    transition: .55s;
+    background-color: darkgreen;
+}
+.help{
+    color: white;
+    font-size: 60px;
+}
+.need{
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+.but3{
+    width: 600px;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+}
+.but3:hover{
+    font-weight: bold;
+    background-color: maroon;
+}
+
+.but4{
+    width: 500px;
+    margin-left: 55px;
+    margin-top: 20px;
+    height: 40px;
+    background-color: rgb(115,40,48);
+    border-radius: 15px;
+    color: white;
+}
+.project1{
+    margin-top: 250px;
+    margin-left: 200px;
+}
+.vote{
+    color: white;
+    font-size: 60px;
+    margin-bottom: -10px;
+}
+.imagess{
+    display: flex;
+}
+.pics{
+    width: 100px;
+    height: 130px;
+}
+.pic2{
+    width: 200px;
+    height: 130px;
+    margin-left: 5px;
+}
+h3{
+    color: white;
+    margin-bottom: -40px;
+}
+.span{
+    color: red;
+}
+.h2{
+    color: white;
+}

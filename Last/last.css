@@ -1,0 +1,14 @@
+.black{
+    background-color: black;
+    height: 400px;
+    width: 107%;
+    margin-left: -50px;
+    overflow: hidden;
+}
+.img8{
+    position: absolute;
+    margin-left: -460px;
+    height: 300px;
+    width: 1000px;
+    top: 4500px;
+}
